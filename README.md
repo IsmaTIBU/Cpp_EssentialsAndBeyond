@@ -3,6 +3,7 @@
     <img src="https://img.shields.io/badge/lang-fr-blue">
   </a>
 </div>  
+
 # Practical Assignments in Object-Oriented Programming (C++)
 
 This repository contains practical assignments from coursework focused on developing proficiency in object-oriented programming (OOP) concepts using C++. Each practical session explores key programming principles through structured tasks and implementations.
